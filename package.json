@@ -1,6 +1,6 @@
 {
   "name": "profane-words",
-  "description": "profane-words",
+  "description": "profane words",
   "version": "0.0.1",
   "author": {
     "name": "Zac Anger",
@@ -10,7 +10,6 @@
   "license": "WTFPL",
   "main": "index.js",
   "scripts": {
-    "start": "node index",
     "test": ""
   },
   "homepage": "https://github.com/zacanger/profane-words#readme",
@@ -20,7 +19,9 @@
   },
   "bugs": "https://github.com/zacanger/profane-words/issues",
   "keywords": [
-    "",
+    "wordlist",
+    "blacklist",
+    "profanity",
     "profane-words"
   ],
   "dependencies": {},
