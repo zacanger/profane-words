@@ -1,0 +1,12 @@
+{
+  "extends": [ "standard" ],
+  "plugins": [ "babel" ],
+  "parser": "babel-eslint",
+  "rules": {
+    "comma-style": [1, "first"],
+    "no-multi-spaces": [0],
+    "one-var": [0],
+    "block-spacing": [0],
+    "key-spacing": [0]
+  }
+}
