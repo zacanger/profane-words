@@ -1,7 +1,7 @@
 {
   "name": "profane-words",
   "description": "profane words",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": {
     "name": "Zac Anger",
     "email": "zac@zacanger.com",
@@ -19,10 +19,10 @@
   },
   "bugs": "https://github.com/zacanger/profane-words/issues",
   "keywords": [
-    "wordlist",
     "blacklist",
+    "profane-words",
     "profanity",
-    "profane-words"
+    "wordlist"
   ],
   "dependencies": {},
   "devDependencies": {},

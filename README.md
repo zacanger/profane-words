@@ -7,10 +7,11 @@ Installation: `npm i -S profane-words`
 Usage:
 ```javascript
 import { de, en, es, fr, it, nl, pt, ru } from 'profane-words'
+const arg = process.argv[2]
 
-console.log(en[0])
+if (en.includes(arg)) console.warn('Watch your mouth.')
 ```
 
-Why: blacklisting words, I guess.
+Why: blacklisting words for whatever reason, probably.
 
 License: WTFPL
