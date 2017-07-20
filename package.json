@@ -10,7 +10,7 @@
   "license": "WTFPL",
   "main": "index.js",
   "scripts": {
-    "test": "echo 'No, sorry.'"
+    "test": "node -e 'require(\".\")'"
   },
   "homepage": "https://github.com/zacanger/profane-words#readme",
   "repository": {
