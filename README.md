@@ -2,12 +2,14 @@
 
 --------
 
-Aiming to be a comprehensive list of profanity in English.
+A semi-comprehensive list of profanity in English.
+
+*Warning* don't read the list if you're easily offended. I don't even know
+what at least half of these words mean.
 
 This includes words from several other lists, with some 'ok words' filtered out.
 
 For other languages, you may wish to check
-[here](https://github.com/zacanger/wordlists-and-datasets/tree/master/wordlists/profanity) and
 [here](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words).
 
 Installation: `npm i -S profane-words`
@@ -23,7 +25,9 @@ if (words.includes(arg.toLowerCase())) {
 }
 ```
 
-Why: blacklisting words for whatever reason, probably. I'm using it for
-searches.
+All words are lowercased.
+
+Why: blacklisting words for whatever reason, probably. I use it for adding
+`noindex` tags when serving pages that match.
 
 License: [WTFPL](./LICENSE.md)
