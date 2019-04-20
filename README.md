@@ -1,7 +1,5 @@
 # profane-words
 
---------
-
 A semi-comprehensive list of profanity in English.
 
 *Warning* don't read the list if you're easily offended. I don't even know
@@ -29,5 +27,11 @@ All words are lowercased.
 
 Why: blacklisting words for whatever reason, probably. I use it for adding
 `noindex` tags when serving pages that match.
+
+## Patreon Sponsors
+
+This project is sponsored on [Patreon](https://www.patreon.com/zacanger) by:
+
+* [Keeley Hammond](https://github.com/VerteDinde)
 
 License: [WTFPL](./LICENSE.md)
