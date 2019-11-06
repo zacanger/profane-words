@@ -1,7 +1,7 @@
 {
   "name": "profane-words",
   "description": "profane words",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "author": {
     "name": "Zac Anger",
     "email": "zac@zacanger.com",
@@ -30,5 +30,4 @@
     "type": "ko-fi",
     "url": "https://ko-fi.com/zacanger"
   }
-
 }
