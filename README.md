@@ -1,5 +1,7 @@
 # profane-words
 
+[![Support with PayPal](https://img.shields.io/badge/paypal-donate-yellow.png)](https://paypal.me/zacanger) [![Patreon](https://img.shields.io/badge/patreon-donate-yellow.svg)](https://www.patreon.com/zacanger) [![ko-fi](https://img.shields.io/badge/donate-KoFi-yellow.svg)](https://ko-fi.com/U7U2110VB)
+
 A semi-comprehensive list of profanity in English.
 
 *Warning* don't read the list if you're easily offended. I don't even know
@@ -27,13 +29,5 @@ All words are lowercased.
 
 Why: blacklisting words for whatever reason, probably. I use it for adding
 `noindex` tags when serving pages that match.
-
-## Patreon Sponsors
-
-[![Patreon](https://img.shields.io/badge/patreon-donate-yellow.svg)](https://www.patreon.com/zacanger)
-
-This project is sponsored on [Patreon](https://www.patreon.com/zacanger) by:
-
-* [Keeley Hammond](https://github.com/VerteDinde)
 
 License: [WTFPL](./LICENSE.md)
