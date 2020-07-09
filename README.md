@@ -27,7 +27,6 @@ if (words.includes(arg.toLowerCase())) {
 
 All words are lowercased.
 
-Why: blacklisting words for whatever reason, probably. I use it for adding
-`noindex` tags when serving pages that match.
+Why: disallowing words for whatever reason, probably.
 
 License: [WTFPL](./LICENSE.md)
