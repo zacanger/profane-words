@@ -6,6 +6,9 @@ A semi-comprehensive list of profanity in English.
 what at least half of these words mean.
 
 This includes words from several other lists, with some 'ok words' filtered out.
+*Note* because this project started out as a compilation of other lists, there
+may still be false positives that I missed here! If you come across something
+that doesn't make sense, please open an issue or a PR!
 
 For other languages, you may wish to check
 [here](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words).
